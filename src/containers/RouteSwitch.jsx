@@ -10,7 +10,7 @@ const RouteSwitch = () => {
     <div>
       <NavBar />
       <Routes>
-        <Route path='/' element={<App />} exact />
+        <Route path='/Yinktech-nfts' element={<App />} exact />
         <Route path='/Stats' element={<Stats />}  />
         <Route path='/Products' element={<Products />}  />
       </Routes>
