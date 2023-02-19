@@ -1,6 +1,7 @@
 {
   "name": "web3-decentralize",
   "version": "0.1.0",
+  "homepage": "https://yinktech.github.io/web3-project/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.3.0",
