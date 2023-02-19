@@ -49,12 +49,12 @@ const NavBar = () => {
                    <div className="modal-body" style={{color: '#651cdf'}}>
                      <div className='d-flex align-items-center px-2 justify-content-between'>
                        <small className='fs-4'>MetaMask</small> 
-                       <img  style={{border: '2px solid #651cdf', borderRadius: '50%', width: '70px'}} className="p-2 px-3" src="https:  seeklogo.com/images/M/metamask-logo-3ED24848EE-seeklogo.com.png" alt="" />
+                       <img  style={{border: '2px solid #651cdf', borderRadius: '50%', width: '70px'}} className="p-2 px-3" src="https://seeklogo.com/images/M/metamask-logo-3ED24848EE-seeklogo.com.png" alt="" />
                      </div>
                      <hr className='separator my-3' />
                      <div className='d-flex align-items-center px-2 justify-content-between'>
                        <small className='fs-4'>WalletConnect</small> 
-                       <img  style={{border: '2px solid #651cdf', borderRadius: '50%', width: '70px'}} className="p-2 px-3" src="https:  gitcoin.co/dynamic/avatar/walletconnect" alt="" />
+                       <img  style={{border: '2px solid #651cdf', borderRadius: '50%', width: '70px'}} className="p-2 px-3" src="https://gitcoin.co/dynamic/avatar/walletconnect" alt="" />
                      </div>
                    </div>
                    <div className="modal-footer">
