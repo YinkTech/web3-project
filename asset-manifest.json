@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/web3-project/static/css/main.0be78a72.css",
-    "main.js": "/web3-project/static/js/main.2922901c.js",
+    "main.js": "/web3-project/static/js/main.ac6cb81e.js",
     "static/media/png": "/web3-project/static/media/f021298172b94d0ea186eaac3967b9b3.083d978938a54db15edb.png",
     "static/media/E_gVCHnXIAgmJ6w.jpeg": "/web3-project/static/media/E_gVCHnXIAgmJ6w.041329e5a4490989bf04.jpeg",
     "static/media/zimals-c7e0fff8-2b1a-4e80-9e39-b3b1eb5cce13.jpg": "/web3-project/static/media/zimals-c7e0fff8-2b1a-4e80-9e39-b3b1eb5cce13.d2562cceddd8f9d8bb7e.jpg",
@@ -36,10 +36,10 @@
     "static/media/addwallet.png": "/web3-project/static/media/addwallet.bffda8fb1770f297a274.png",
     "index.html": "/web3-project/index.html",
     "main.0be78a72.css.map": "/web3-project/static/css/main.0be78a72.css.map",
-    "main.2922901c.js.map": "/web3-project/static/js/main.2922901c.js.map"
+    "main.ac6cb81e.js.map": "/web3-project/static/js/main.ac6cb81e.js.map"
   },
   "entrypoints": [
     "static/css/main.0be78a72.css",
-    "static/js/main.2922901c.js"
+    "static/js/main.ac6cb81e.js"
   ]
 }
