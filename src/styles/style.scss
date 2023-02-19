@@ -61,7 +61,6 @@ $offwhite: #fbfbfb;
     text-transform: capitalize;
     font-weight: bolder;
     font-size: 18px;
-    font-family: 'Noto Sans Adlam Unjoined', sans-serif;
     font-family: 'Exo 2', sans-serif;
     a {
       color: $bg-dark;
@@ -139,7 +138,8 @@ $offwhite: #fbfbfb;
       }
     }
     .peak {
-      margin-top: 40px;
+      margin-top: 20px;
+      padding: 80px;
       background: url('./../img/alena.png');
       background-repeat: no-repeat;
       background-position: center;
