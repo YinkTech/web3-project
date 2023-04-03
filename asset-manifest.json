@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/web3-project/static/css/main.0be78a72.css",
-    "main.js": "/web3-project/static/js/main.ac6cb81e.js",
+    "main.css": "/web3-project/static/css/main.fd1ad91a.css",
+    "main.js": "/web3-project/static/js/main.a8247806.js",
     "static/media/png": "/web3-project/static/media/f021298172b94d0ea186eaac3967b9b3.083d978938a54db15edb.png",
     "static/media/E_gVCHnXIAgmJ6w.jpeg": "/web3-project/static/media/E_gVCHnXIAgmJ6w.041329e5a4490989bf04.jpeg",
     "static/media/zimals-c7e0fff8-2b1a-4e80-9e39-b3b1eb5cce13.jpg": "/web3-project/static/media/zimals-c7e0fff8-2b1a-4e80-9e39-b3b1eb5cce13.d2562cceddd8f9d8bb7e.jpg",
@@ -11,7 +11,7 @@
     "static/media/thumb_cropped_1080x1350_9KczXibcm3NOhcCMWnoZ55lnncMY1qM_.jpeg": "/web3-project/static/media/thumb_cropped_1080x1350_9KczXibcm3NOhcCMWnoZ55lnncMY1qM_.7b011c8621aca56d6019.jpeg",
     "static/media/FMOYgrrWYAc8mZ0.jpg": "/web3-project/static/media/FMOYgrrWYAc8mZ0.184a5326165dc2090fd8.jpg",
     "static/media/eyesss-1024x1024.webp": "/web3-project/static/media/eyesss-1024x1024.dc80dc712b31e169e691.webp",
-    "static/media/alena.png": "/web3-project/static/media/alena.dad285154393d53382e7.png",
+    "static/media/alena.png": "/web3-project/static/media/alena.9d6ab47089a07a689f21.png",
     "static/media/haze-1024x1024.webp": "/web3-project/static/media/haze-1024x1024.686df5615df24491d721.webp",
     "static/media/oyedokun-ridwan-opeyemi-gvvbdecfw.jpg": "/web3-project/static/media/oyedokun-ridwan-opeyemi-gvvbdecfw.7e94e6a0e168465558cd.jpg",
     "static/media/tcash_official-exoticnft--47009641996-4-1080x1080.jpg": "/web3-project/static/media/tcash_official-exoticnft-2803963634670527937-47009641996-4-1080x1080.ef329c4d268405c6d569.jpg",
@@ -35,11 +35,11 @@
     "static/media/unnamed.jpg": "/web3-project/static/media/unnamed.49e87c4272d8b8514670.jpg",
     "static/media/addwallet.png": "/web3-project/static/media/addwallet.bffda8fb1770f297a274.png",
     "index.html": "/web3-project/index.html",
-    "main.0be78a72.css.map": "/web3-project/static/css/main.0be78a72.css.map",
-    "main.ac6cb81e.js.map": "/web3-project/static/js/main.ac6cb81e.js.map"
+    "main.fd1ad91a.css.map": "/web3-project/static/css/main.fd1ad91a.css.map",
+    "main.a8247806.js.map": "/web3-project/static/js/main.a8247806.js.map"
   },
   "entrypoints": [
-    "static/css/main.0be78a72.css",
-    "static/js/main.ac6cb81e.js"
+    "static/css/main.fd1ad91a.css",
+    "static/js/main.a8247806.js"
   ]
 }
