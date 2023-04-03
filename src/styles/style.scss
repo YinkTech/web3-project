@@ -140,11 +140,16 @@ $offwhite: #fbfbfb;
     .peak {
       margin-top: 20px;
       padding: 80px;
-      background: url('./../img/alena.png');
+      transition: background-color 0.4s ease;
+      background: linear-gradient(#f09c2f4e, #f6e0a4), url(./../img/alena.png);
+      // background: linear-gradient(#040b0fb9, #f6e0a4), url(./../img/alena.png);
+      // box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);
+      box-shadow: 0 0 8px 8px white inset;
+      background-size: 100% 100%;
+      // background: url('./../img/alena.png');
       background-repeat: no-repeat;
       background-position: center;
-      background-size: contain;
-      display: flex;
+      // background-size: inherit;
       justify-content: right;
       align-items: center;
       .lead-aside {
@@ -152,15 +157,18 @@ $offwhite: #fbfbfb;
         .item-lead-aside {
           text-align: start;
           text-transform: capitalize;
-          background: #c8aff39b;
+          border: 2px solid #d1bcf5;
+          border-image: linear-gradient(35deg,#a77dec,#f6e0a4) 10;
+          background: rgba(89, 46, 46, 0.414);
+          font-family: 'Courier New', Courier, monospace;
           color: #fff;
+          font-weight: bolder;
           width: fit-content;
           padding: 10px;
-          border-radius: 10px;
           .love-item-lead-asid {
             .love-item-lead-aside {
-              font-size: 10px;
-              background: #671fde;
+              font-size: 16px;
+              background: linear-gradient(#a77dec, #f6e0a4 ) ;
               color: #fff;
               border-radius: 20px;
               padding: 10px;

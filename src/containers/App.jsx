@@ -40,7 +40,7 @@ const App = () => {
   return (
     <div className='body'>
       <div className='container-fluid pt-md-5 first-section row mx-auto'>
-        <div className='col-md-6 sec-aside  text-center text-md-start'>
+        <div className='col-lg-6 sec-aside text-center text-md-start'>
           <h1 className='my-5 fs-md-1 fs-3'>
             Create, Imagine,
             Explore and gather 
@@ -58,9 +58,9 @@ const App = () => {
 
         <button className='btn btn-primary button-sett px-3'> Create </button>
         </div>
-        <div className='col-md-6 peak'>
+        <div className='col-lg-6 d-none  d-lg-flex peak'>
           <div className='lead-aside p-3'>
-            <div className='item-lead-aside'>
+            <div className=' item-lead-aside'>
               <h6>hottest action</h6>
 
               <div className='love-item-lead-asid d-flex justify-content-between'>
